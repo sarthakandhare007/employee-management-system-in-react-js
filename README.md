@@ -1,5 +1,3 @@
-# employee-management-system-in-react-js
-
 # Employee Management System
 
 This is a fully functional **Employee Management System** built with **React** and **Context API**, featuring role-based access for **Admin** and **Employees**. It demonstrates task assignment, task tracking, and workflow management in a company.
@@ -72,6 +70,7 @@ This is a fully functional **Employee Management System** built with **React** a
 
 <!-- ## 🔹 Screenshots (Optional)
 
+_Add screenshots or GIFs here to make your README more engaging._ -->
 
 ---
 
@@ -101,4 +100,8 @@ This is a fully functional **Employee Management System** built with **React** a
 
 ## 🔹 License
 
-MIT License – feel free to use and modify.
+License – feel free to use and modify.
+
+
+from- sarthak andhare
+
