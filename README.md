@@ -78,10 +78,7 @@ _Add screenshots or GIFs here to make your README more engaging._ -->
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Abhishek-mehata/ems.git
-   ```
-
+ 
 2. Install dependencies:
 
    ```bash
@@ -113,6 +110,7 @@ HOST LINK-https://employee-management07.netlify.app/
 
 
 from- sarthak andhare
+
 
 
 
