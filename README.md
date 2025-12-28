@@ -103,6 +103,9 @@ _Add screenshots or GIFs here to make your README more engaging._ -->
 License – feel free to use and modify.
 
 
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/e3171bae-5b07-4f13-a998-4c61488f8bdd" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/3b8008d0-e06e-4682-bd7f-58bc48cf17f5" />
+<img width="1902" height="973" alt="image" src="https://github.com/user-attachments/assets/5aff8ecf-250b-4f80-bb50-965ba47afc7f" />
 
 
 
@@ -110,5 +113,6 @@ HOST LINK-https://employee-management07.netlify.app/
 
 
 from- sarthak andhare
+
 
 
